@@ -1,9 +1,7 @@
 
-
-
 # Char RNN PyTorch
 
-Minimalist code for character-level language modelling using Multi-layer Recurrent Neural Networks (LSTM) in PyTorch. The RNN is trained to predict next letter in a given text sequence. The trained model can then be used to generate a new text sequence resembling the original data.
+Minimalist code for character-level language modelling using Multi-layer Recurrent Neural Networks (RNN) in PyTorch. The RNN is trained to predict next letter in a given text sequence. The trained model can then be used to generate a new text sequence resembling the original data.
 
 ## Requirements
 
@@ -78,5 +76,5 @@ Go tell you.
 
 
 ## Acknowledgements
-This code is based on the [char-rnn](https://github.com/karpathy/char-rnn) and [min-char-rnn](https://gist.github.com/karpathy/d4dee566867f8291f086) code by Andrej Karpathy, which is in turn based on Oxford University Machine Learning class [practical 6](https://github.com/oxford-cs-ml-2015/practical6), which is in turn based on [learning to execute](https://github.com/wojciechz/learning_to_execute) code from Wojciech Zaremba.
+This code is based on the [Char-RNN-PyTorch](https://github.com/nikhilbarhate99/Char-RNN-PyTorch) implementation by Nikhil Barhate, as well as the [char-rnn](https://github.com/karpathy/char-rnn) and [min-char-rnn](https://gist.github.com/karpathy/d4dee566867f8291f086) code by Andrej Karpathy, which is in turn based on Oxford University Machine Learning class [practical 6](https://github.com/oxford-cs-ml-2015/practical6), which is in turn based on the [learning to execute](https://github.com/wojciechz/learning_to_execute) code from Wojciech Zaremba.
 
