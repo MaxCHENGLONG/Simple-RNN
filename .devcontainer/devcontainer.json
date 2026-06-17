@@ -1,0 +1,8 @@
+{
+  "name": "Char-RNN-PyTorch",
+  "image": "char-rnn-pytorch-dev:latest",
+  "runArgs": [
+    "--platform=linux/amd64"
+  ],
+  "workspaceFolder": "/workspaces/Char-RNN-PyTorch"
+}

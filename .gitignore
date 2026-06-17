@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Environment
+.env
+.venv/
+venv/
+
+# Archives / Docker package files
+*.tar
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Do NOT ignore model weights
+# *.pth
+# preTrained/
